@@ -1,15 +1,15 @@
 /****** Script for SelectTopNRows command from SSMS 
-ProductsTable - таблица продуктов
-в ней:
-Id - айди продукта
-Name -  имя продукта
-CategoryId - айди категории данного продукта
+ProductsTable - product table
+where:
+Id - product id
+Name - product name
+CategoryId - category id for this product
 
-CategoriesTable - таблица категорий
-в ней:
-Id - айди категории
-Name -  имя категории
-CategoryId - айди продукта данной категории
+CategoriesTable - category table
+where:
+Id - category id
+Name - category name
+CategoryId - product id of this category
 ******/
 
 
